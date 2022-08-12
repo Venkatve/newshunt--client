@@ -132,6 +132,7 @@ function LandingPage() {
                 >
                   LOGIN
                 </button>
+                <div>Username : Admin |<span> Password : User@123</span></div>
               </div>
             </div>
           </div>

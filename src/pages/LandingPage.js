@@ -130,9 +130,9 @@ function LandingPage() {
                   className="bg-gray-400 px-10 py-3 text-black"
                   onClick={login}
                 >
-                  LO
+                  LOGIN
                 </button>
-                <div>Username : Admin |<span> Password : User@123</span></div>
+                <div>Username : demo1234@gmail.com |<span> Password : Demo1234!</span></div>
               </div>
             </div>
           </div>
